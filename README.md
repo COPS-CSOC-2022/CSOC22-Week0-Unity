@@ -26,7 +26,7 @@ When you get to this screen, make sure that the checkbox in front of “Microsof
 ![unity installation page](https://user-images.githubusercontent.com/87766488/169690405-f46e22ef-d64c-44d9-8f0e-0241de892a30.png)
 
 Now click on install and sit back and relax.
-You can also [this](https://www.youtube.com/watch?v=ewiw2tcfen8) video if have any confusion in the process
+You can also watch [this](https://www.youtube.com/watch?v=ewiw2tcfen8) video if have any confusion in the process
 
 Now we have to create a new project. For that go to projects tab and click on "New Project". 
 Select the 2D option as we would be creating a 2D game. Rename your project as per your wish and hit the Create button. Your new project will be created and opened in Unity editor.
